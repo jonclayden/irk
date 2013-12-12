@@ -1,0 +1,13 @@
+Package: irk
+Version: 0.1.0
+Date: 2013-12-12
+Title: Image resampling with kernels
+Author: Jon Clayden
+Maintainer: Jon Clayden <code@clayden.org>
+Depends: R (>= 2.12.1), Rcpp, RcppArmadillo
+Imports: reportr
+LinkingTo: Rcpp, RcppArmadillo
+Description: The irk package provides methods for upsampling or downsampling images of any dimensionality using kernel-based reconstruction filters.
+Encoding: UTF-8
+License: GPL-2
+URL: https://github.com/jonclayden/irk/

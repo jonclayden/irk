@@ -1,0 +1,5 @@
+useDynLib(irk)
+
+import(reportr)
+
+exportPattern("^[^\\.]")
